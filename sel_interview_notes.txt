@@ -1,1 +1,15 @@
+analy
+
+Priority for  TC's automation
+-retest TC
+    Some Tc's need to test again and again with differt inputs (E.g. Data driven TCs)
+-regression Tc
+    re testing the existing functionality when every release
+
+test demo website
+frontend : https://demo.nopcommerce.com/
+backend : https://admin-demo.nopcommerce.com/admin/
+    Task-1 : data driven test for login with different login data.
+    Task-2 : customer module
+            random data generation for mail-id.
 
